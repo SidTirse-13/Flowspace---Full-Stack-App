@@ -18,11 +18,11 @@
 
 ## 📖 About Flowspace
 
-**Flowspace** is a full-stack project management application designed to help software teams plan, track, and deliver projects efficiently. It brings together task management, team collaboration, real-time communication, AI-powered tools, and video meetings — all in one beautifully designed platform.
+**Flowspace** is a full-stack project management application designed to help software teams plan, track, and deliver projects efficiently. It brings together task management, team collaboration, real-time communication, AI-powered tools, and video meetings  all in one beautifully designed platform.
 
 Built with a **React + Vite** frontend and a **Spring Boot** backend, Flowspace features a dark-themed, professional UI that makes project management feel intuitive and enjoyable.
 
-> 💡 Inspired by tools like Jira, Linear, and Notion — but built from scratch with modern technologies.
+> 💡 Inspired by tools like Jira, Linear, and Notion but built from scratch with modern technologies.
 
 
 ## ✨ Features
@@ -37,12 +37,12 @@ Built with a **React + Vite** frontend and a **Spring Boot** backend, Flowspace 
 ### ✅ Task Management
 - Create tasks with title, description, priority, start/end dates
 - Drag-and-drop **Kanban board** (TODO → IN_PROGRESS → DONE)
-- Task dependencies — block tasks until prerequisites are complete
+- Task dependencies block tasks until prerequisites are complete
 - File attachments on tasks
 - Task comments with threaded discussions
 - Subtask support
 - Bulk task operations
-- Task audit logs — full history of every change
+- Task audit logs full history of every change
 
 ### 👥 Team Collaboration
 - Project member management (Owner, Project Manager, Member roles)
@@ -58,13 +58,13 @@ Built with a **React + Vite** frontend and a **Spring Boot** backend, Flowspace 
 - Slack table (task float time)
 - Gantt timeline visualization
 - Workload heatmap per member
-- **Velocity charts** — weekly completed tasks over time
+- **Velocity charts**- weekly completed tasks over time
 - Cumulative completion tracking
 
 ### 🤖 AI Tools (Powered by Groq · Llama 3.1)
 - **AI Daily Standup Generator** — reads your real task data and writes an accurate standup
-- **AI Task Breakdown** — describe a feature, get 5-8 actionable subtasks with estimates
-- **AI Chatbot** — floating assistant on every page for PM advice, sprint planning, and more
+- **AI Task Breakdown** - describe a feature, get 5-8 actionable subtasks with estimates
+- **AI Chatbot** - floating assistant on every page for PM advice, sprint planning, and more
 - Tone selector (Professional / Casual / Detailed)
 - Copy-to-clipboard for all AI outputs
 
