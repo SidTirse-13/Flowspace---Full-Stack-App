@@ -21,7 +21,7 @@
 
 ## 📌 Overview
 
-**Flowspace** is a comprehensive, production-ready project management application designed for software development teams. It combines real-time collaboration, AI-powered productivity tools, Kanban boards, analytics, and video meetings into one unified platform — making it the only tool your team needs to plan, build, and ship software.
+**Flowspace** is a comprehensive, production-ready project management application designed for software development teams. It combines real-time collaboration, AI-powered productivity tools, Kanban boards, analytics, and video meetings into one unified platform making it the only tool your team needs to plan, build, and ship software.
 
 Built with a **React + Vite** frontend and a **Java Spring Boot** backend, Flowspace delivers a modern, responsive UI with a robust, secure REST API backed by **PostgreSQL**.
 
