@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/badge/Flowspace-Project%20Management-6c63ff?style=for-the-badge&logoColor=white" alt="Flowspace" />
 
-# 🚀 Flowspace — Full Stack Project Management System
+# 🚀 Flowspace - Full Stack Project Management System
 
 **A modern, feature-rich project management platform built with React + Spring Boot**
 
@@ -35,7 +35,7 @@ Built with a **React + Vite** frontend and a **Java Spring Boot** backend, Flows
 - JWT-based authentication with role-based access control
 - Three user roles: **Admin**, **Project Manager**, and **Member**
 - Secure password hashing with BCrypt
-- Protected routes — unauthenticated users are redirected to login
+- Protected routes - unauthenticated users are redirected to login
 - Admin dashboard for full user management
 
 ### 📋 Project Management
@@ -62,32 +62,32 @@ Built with a **React + Vite** frontend and a **Java Spring Boot** backend, Flows
 
 ### 📊 Analytics & Reporting
 - Task completion percentage and pie charts
-- **Critical Path** analysis — identifies tasks that block project completion
-- **Slack analysis** — shows how much buffer each task has
-- **Gantt timeline** — visual project schedule
-- **Workload view** — per-member task distribution
-- **Velocity charts** — weekly completed tasks over time with cumulative view
+- **Critical Path** analysis - identifies tasks that block project completion
+- **Slack analysis** - shows how much buffer each task has
+- **Gantt timeline** - visual project schedule
+- **Workload view** - per-member task distribution
+- **Velocity charts** - weekly completed tasks over time with cumulative view
 - Project-level audit logs
 
 ### 🤖 AI Tools (Powered by Groq + Llama 3.1)
-- **AI Daily Standup Generator** — reads your real task data and writes an accurate standup update
-- **AI Task Breakdown** — describe any feature and get 5–8 actionable subtasks with priorities and time estimates
+- **AI Daily Standup Generator** - reads your real task data and writes an accurate standup update
+- **AI Task Breakdown** - describe any feature and get 5–8 actionable subtasks with priorities and time estimates
 - Tone selector: Professional / Casual / Detailed
-- **AI Chatbot** — floating assistant on every page for PM advice, writing help, and sprint planning
+- **AI Chatbot** - floating assistant on every page for PM advice, writing help, and sprint planning
 - Context-aware: knows your username, current page, and your project list
 
 ### 💬 Communication
-- **Project Chat** — real-time messaging per project with @mentions
-- **Announcements** — pin/unpin important project-wide messages
-- **Direct Messages** — private 1:1 conversations between users
-- **Activity Feed** — live audit feed of all your actions across all projects
+- **Project Chat** - real-time messaging per project with @mentions
+- **Announcements** - pin/unpin important project-wide messages
+- **Direct Messages** - private 1:1 conversations between users
+- **Activity Feed** - live audit feed of all your actions across all projects
 
 ### 📅 Meetings
 - Schedule meetings with type (Standup, Planning, Review, Retrospective, 1:1, General)
 - Set attendees, agenda, notes, and action items
 - Link meetings to specific projects
 - Status tracking: Scheduled → In Progress → Completed / Cancelled
-- **Video Calls** — embedded real-time HD video calling
+- **Video Calls** - embedded real-time HD video calling
 - "Time until" countdown for upcoming meetings
 - Copy invite link to share with anyone
 
