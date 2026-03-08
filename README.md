@@ -360,7 +360,6 @@ jwt.secret=                      # Min 32 character secret key
 jwt.expiration=86400000          # Token expiry in ms (24 hours)
 ```
 
-> ⚠️ **Never commit `.env` or `application.properties` with real credentials to GitHub.**
 
 ---
 
